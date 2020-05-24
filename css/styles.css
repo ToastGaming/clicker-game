@@ -84,3 +84,9 @@ body {
   border: 1px solid #313131;
   background-color: #eee;
 }
+
+.game__clicker-counter_name {
+  width: 150px;
+  text-align: center;
+  font-size: 32px;
+}
